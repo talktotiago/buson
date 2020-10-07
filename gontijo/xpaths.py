@@ -1,0 +1,5 @@
+saindo_de_xpath = '//*[@id="vpw-embarque"]'
+indo_para_xpath = '//*[@id="vpw-desembarque"]'
+data_de_partida_xpath = '//*[@id="data_ida"]'
+data_de_volta_xpath = '//*[@id="data_volta"]'
+pesquisar_passagens_btn_xpath = '//*[@id="content"]/div/div[1]/div/form/table[1]/tbody/tr/td/div/div[6]/div/button'
